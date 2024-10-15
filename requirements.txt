@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+numpy
+ipykernel
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+chardet
+lmxl
+beautifulsoup4
+html5lib
